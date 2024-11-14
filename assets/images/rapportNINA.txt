@@ -1,0 +1,30 @@
+Démarré à: 12/11/2024 13:02
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\nina.webp 1460x1456x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\nina.webp : enregistré
+		81.54 Kio -> 21.67 Kio (-73%)
+
+
+Fichiers sources : 1
+Page(s) extraite(s) : 1
+Fichier(s) écrasé(s) : 1
+
+Taille totale des fichiers en entrée: 81.54 Kio
+Taille totale des fichiers en sortie: 21.67 Kio
+Ratio taille fichier: -73%
+
+Durée totale : 1 seconde
+
+Terminé à: 12/11/2024 13:02
+
+----------------------------------------------
+Resize
+	mode: 0
+	width: 800
+	height: 560
+	unit: 0
+	ratio: true
+	orientation: false
+	enlarge: 0
+	resample: 7
+	gamma_correct: false

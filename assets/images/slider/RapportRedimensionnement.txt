@@ -1,0 +1,44 @@
+Démarré à: 12/11/2024 11:53
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\edward-cisneros-3_h6-1NPDGw-unsplash.jpg 5653x2613x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\edward-cisneros-3_h6-1NPDGw-unsplash.webp : enregistré
+		5653x2613px -> 1921x888px
+		5.43 Mio -> 117.66 Kio (-97%)
+		
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\nicholas-green-nPz8akkUmDI-unsplash.jpg 6000x2775x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\nicholas-green-nPz8akkUmDI-unsplash.webp : enregistré
+		6000x2775px -> 1920x888px
+		1.82 Mio -> 66.32 Kio (-96%)
+		
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\ryoji-iwata-wUZjnOv7t0g-unsplash.jpg 4540x2100x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\ryoji-iwata-wUZjnOv7t0g-unsplash.webp : enregistré
+		4540x2100px -> 1920x888px
+		1.55 Mio -> 131.17 Kio (-91%)
+		
+
+
+Fichiers sources : 3
+Page(s) extraite(s) : 3
+Nouveaux fichiers : 3
+
+Taille totale des fichiers en entrée: 8.80 Mio
+Taille totale des fichiers en sortie: 315.15 Kio
+Ratio taille fichier: -96%
+
+Durée totale : 2 secondes
+
+Terminé à: 12/11/2024 11:53
+
+----------------------------------------------
+Resize
+	mode: 0
+	width: 2048
+	height: 888
+	unit: 0
+	ratio: true
+	orientation: false
+	enlarge: 0
+	resample: 7
+	gamma_correct: false

@@ -1,0 +1,76 @@
+Démarré à: 12/11/2024 11:13
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\camera.png 2024x2020x32 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\camera.webp : enregistré
+		1.59 Mio -> 57.94 Kio (-96%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\instagram.png 40x40x32 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\instagram.webp : enregistré
+		721 Octets -> 428 Octets (-40%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\nina.png 1460x1456x32 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\nina.webp : enregistré
+		2.06 Mio -> 81.54 Kio (-96%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\concerts\aaron-paul-wnX-fXzB6Cw-unsplash.jpg 2448x3264x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\concerts\aaron-paul-wnX-fXzB6Cw-unsplash.webp : enregistré
+		1011.61 Kio -> 264.19 Kio (-73%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\concerts\austin-neill-hgO1wFPXl3I-unsplash.jpg 5233x3489x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\concerts\austin-neill-hgO1wFPXl3I-unsplash.webp : enregistré
+		1.40 Mio -> 208.09 Kio (-85%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\entreprise\ali-morshedlou-WMD64tMfc4k-unsplash.jpg 4000x6000x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\entreprise\ali-morshedlou-WMD64tMfc4k-unsplash.webp : enregistré
+		1.05 Mio -> 134.72 Kio (-87%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\entreprise\jason-goodman-tHO1_OuKbg0-unsplash.jpg 4084x2764x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\entreprise\jason-goodman-tHO1_OuKbg0-unsplash.webp : enregistré
+		697.78 Kio -> 137.07 Kio (-80%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\entreprise\mateus-campos-felipe-Fsgzm8N0hIY-unsplash.jpg 6000x3674x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\entreprise\mateus-campos-felipe-Fsgzm8N0hIY-unsplash.webp : enregistré
+		1.83 Mio -> 341.50 Kio (-81%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\mariage\hannah-busing-RvF2R_qMpRk-unsplash.jpg 4453x3562x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\mariage\hannah-busing-RvF2R_qMpRk-unsplash.webp : enregistré
+		1.70 Mio -> 246.18 Kio (-85%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\mariage\jakob-owens-SiniLJkXhMc-unsplash.jpg 4480x6720x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\mariage\jakob-owens-SiniLJkXhMc-unsplash.webp : enregistré
+		5.99 Mio -> 2.24 Mio (-62%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\portraits\ade-tunji-rVkhWWZFAtQ-unsplash.jpg 2211x3314x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\portraits\ade-tunji-rVkhWWZFAtQ-unsplash.webp : enregistré
+		979.00 Kio -> 307.62 Kio (-68%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\portraits\nino-van-prattenburg--443cl1uR_8-unsplash.jpg 4024x6048x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\gallery\portraits\nino-van-prattenburg--443cl1uR_8-unsplash.webp : enregistré
+		2.41 Mio -> 463.24 Kio (-81%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\edward-cisneros-3_h6-1NPDGw-unsplash.jpg 5653x2613x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\edward-cisneros-3_h6-1NPDGw-unsplash.webp : enregistré
+		5.43 Mio -> 3.31 Mio (-39%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\nicholas-green-nPz8akkUmDI-unsplash.jpg 6000x2775x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\nicholas-green-nPz8akkUmDI-unsplash.webp : enregistré
+		1.82 Mio -> 355.86 Kio (-80%)
+
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\ryoji-iwata-wUZjnOv7t0g-unsplash.jpg 4540x2100x24 : chargé
+I:\MrPoyDocs\OpenClassRooms\FORMATION integrateur web\Projet_8\NinaCarducci\assets\images\slider\ryoji-iwata-wUZjnOv7t0g-unsplash.webp : enregistré
+		1.55 Mio -> 496.26 Kio (-68%)
+
+
+Fichiers sources : 15
+Page(s) extraite(s) : 15
+Nouveaux fichiers : 15
+
+Taille totale des fichiers en entrée: 29.45 Mio
+Taille totale des fichiers en sortie: 8.57 Mio
+Ratio taille fichier: -70%
+
+Durée totale : 34 secondes
+
+Terminé à: 12/11/2024 11:14
+
+----------------------------------------------
