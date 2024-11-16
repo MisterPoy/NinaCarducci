@@ -1,6 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
   <head>
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="script-src 'self' 'unsafe-inline' 'unsafe-eval' https://apis.google.com https://code.jquery.com;"
+    />
+    <title>Nina Carducci Photographe professionnel</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./assets/bootstrap/bootstrap.css" />
     <link rel="stylesheet" href="./assets/style.css" />
@@ -21,7 +26,7 @@
     <script src="./assets/scripts.js"></script>
   </head>
   <body>
-    <div class="top-header">
+    <nav class="top-header">
       <h3 class="name">Nina Carducci</h3>
       <div class="nav">
         <ul>
@@ -34,13 +39,17 @@
               class="social-link"
               href="https://www.instagram.com/ninacarducci.photo/?hl=fr"
               target="_blank"
-              ><img src="assets/images/instagram.webp" alt=""
+              ><img
+                src="assets/images/instagram.webp"
+                alt="Lien vers le compte Instagram de Nina Carducci"
+                width="40"
+                height="40"
             /></a>
           </li>
         </ul>
       </div>
-    </div>
-    <div id="header">
+    </nav>
+    <header id="header">
       <div
         id="carouselExampleIndicators"
         class="carousel slide"
@@ -73,21 +82,21 @@
             <img
               src="./assets/images/slider/ryoji-iwata-wUZjnOv7t0g-unsplash.webp"
               class="d-block w-100"
-              alt="..."
+              alt="Homme en costume traversant un passage piéton aux larges bandes blanches et noires"
             />
           </div>
           <div class="carousel-item">
             <img
               src="./assets/images/slider/nicholas-green-nPz8akkUmDI-unsplash.webp"
               class="d-block w-100"
-              alt="..."
+              alt="Foule enthousiaste lors d'un concert, avec des spectateurs souriants et levant les bras"
             />
           </div>
           <div class="carousel-item">
             <img
               src="./assets/images/slider/edward-cisneros-3_h6-1NPDGw-unsplash.webp"
               class="d-block w-100"
-              alt="..."
+              alt="Couple de mariés s'embrassant au milieu d'une haie d'honneur avec des invités les acclamants"
             />
           </div>
         </div>
@@ -110,10 +119,14 @@
           <span class="visually-hidden">Next</span>
         </button>
       </div>
-    </div>
+    </header>
+
     <div id="about">
       <div class="picture left">
-        <img src="./assets/images/nina.webp" />
+        <img
+          src="./assets/images/nina.webp"
+          alt="Portrait de Nina Carducci, photographe professionnelle"
+        />
       </div>
       <div id="about-me">
         <h3 class="about-me__title">A propos de moi</h3>
@@ -142,46 +155,73 @@
             data-gallery-tag="Concert"
             class="gallery-item"
             src="./assets/images/gallery/concerts/aaron-paul-wnX-fXzB6Cw-unsplash.webp"
+            alt="Photographie de concert avec une ambiance lumineuse dans les ton rouge"
+            width="540"
+            height="720"
           />
           <img
             data-gallery-tag="Entreprises"
             class="gallery-item"
             src="./assets/images/gallery/entreprise/ali-morshedlou-WMD64tMfc4k-unsplash.webp"
+            alt="Homme en costume croisant les bras, regardant confiant devant un bâtiment d'affaires"
+            width="466"
+            height="699"
           />
           <img
             data-gallery-tag="Entreprises"
             class="gallery-item"
             src="./assets/images/gallery/entreprise/jason-goodman-tHO1_OuKbg0-unsplash.webp"
+            alt="Femme souriante participant à une réunion, assise dans un espace de travail lumineux"
+            width="466"
+            height="315"
           />
           <img
             data-gallery-tag="Mariages"
             class="gallery-item"
             src="./assets/images/gallery/mariage/hannah-busing-RvF2R_qMpRk-unsplash.webp"
+            alt="Mains tendues l'une vers l'autre, symbolisant la connexion et l'entraide"
+            width="466"
+            height="373"
           />
           <img
             data-gallery-tag="Portrait"
             class="gallery-item"
             src="./assets/images/gallery/portraits/ade-tunji-rVkhWWZFAtQ-unsplash.webp"
+            alt="Portrait d'un homme aux yeux fermés, éclairé par le soleil"
+            width="466"
+            height="698"
           />
           <img
             data-gallery-tag="Mariages"
             class="gallery-item"
             src="./assets/images/gallery/mariage/jakob-owens-SiniLJkXhMc-unsplash.webp"
+            alt="Couple de mariés marchant main dans la main en souriant devant un palmier"
+            width="466"
+            height="699"
           />
           <img
             data-gallery-tag="Portrait"
             class="gallery-item"
             src="./assets/images/gallery/portraits/nino-van-prattenburg--443cl1uR_8-unsplash.webp"
+            alt="Jeune femme portant des lunettes, posant près d'un grillage sous la lumière du soleil"
+            width="466"
+            height="700"
           />
           <img
             data-gallery-tag="Concert"
             class="gallery-item"
             src="./assets/images/gallery/concerts/austin-neill-hgO1wFPXl3I-unsplash.webp"
+            alt="Chanteur sur scène levant la main sous des lumières et des effets de fumée"
+            width="466"
+            height="311"
           />
           <img
             data-gallery-tag="Entreprises"
             class="gallery-item"
             src="./assets/images/gallery/entreprise/mateus-campos-felipe-Fsgzm8N0hIY-unsplash.webp"
+            alt="Femme riant en travaillant sur un ordinateur portable dans un bureau éclairé par la lumière naturelle"
+            width="466"
+            height="285"
           />
         </div>
       </div>
@@ -256,7 +296,8 @@
         <figcaption class="quote__author">- Richard Avedon</figcaption>
       </figure>
     </div>
-    <div id="contact">
+
+    <footer id="contact">
       <div class="container">
         <div class="form-container">
           <h3>Une question ? Une demande de devis ?</h3>
@@ -264,11 +305,11 @@
             N’hésitez pas à m’écrire ! Je vous répondrais en moins de 24 heures
           </p>
           <form action="" method="post">
-            <label>Nom</label>
+            <label for="nom">Nom</label>
             <input type="text" name="nom" id="nom" />
-            <label>Email</label>
+            <label for="email">Email</label>
             <input type="email" name="email" id="email" />
-            <label>Message</label>
+            <label for="message">Message</label>
             <textarea
               name="message"
               id="message"
@@ -279,10 +320,12 @@
           </form>
         </div>
         <div class="picture right">
-          <img src="./assets/images/camera.webp" />
-          <!--test -->
+          <img
+            src="./assets/images/camera.webp"
+            alt="Illustration d'une caméra pour contact"
+          />
         </div>
       </div>
-    </div>
+    </footer>
   </body>
 </html>
