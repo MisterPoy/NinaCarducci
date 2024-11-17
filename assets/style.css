@@ -65,7 +65,13 @@ body {
 
 .picture img {
   width: 100%;
+  aspect-ratio: 1/1;
 }
+
+.carousel-item img {
+  aspect-ratio: 1920/888;
+}
+
 #about-me {
   flex: 2;
 }
@@ -73,6 +79,15 @@ body {
   margin-top: 1em;
   margin-bottom: 60px;
   font-size: 30px;
+}
+.contact-info__title {
+  margin-top: 1em;
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+.contact-info a {
+  color: #212529;
+  text-decoration: none;
 }
 .about-me__introduction {
   font-family: "Spectral";
@@ -86,7 +101,7 @@ body {
 }
 
 #gallery {
-  /*	min-height: 100vh; */
+  min-height: 100vh;
 }
 .title {
   text-align: center;
@@ -237,7 +252,7 @@ input[type="submit"] {
   padding: 0.5em 1em;
 }
 
-@media all and (max-width: 1180px) {
+@media all and (max-width: 1240px) {
   .picture {
     flex: 2;
   }
@@ -246,6 +261,10 @@ input[type="submit"] {
     align-items: center;
   }
   .about-me__title {
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+  .contact-info__title {
     margin-top: 0;
     margin-bottom: 1em;
   }
@@ -272,6 +291,10 @@ input[type="submit"] {
     z-index: -1;
   }
   .about-me__title {
+    text-align: center;
+    margin-top: 1em;
+  }
+  .contact-info__title {
     text-align: center;
     margin-top: 1em;
   }

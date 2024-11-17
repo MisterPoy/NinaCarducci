@@ -24,6 +24,41 @@
     ></script>
     <script src="./assets/maugallery.js"></script>
     <script src="./assets/scripts.js"></script>
+
+    <!-- Balises Open Graph -->
+    <meta
+      property="og:title"
+      content="Nina Carducci - Photographe professionnelle à Bordeaux"
+    />
+    <meta
+      property="og:description"
+      content="Découvrez les services de Nina Carducci, photographe spécialisée dans les mariages, portraits et événements à Bordeaux. Réservez votre séance dès aujourd'hui !"
+    />
+    <meta
+      property="og:image"
+      content="https://misterpoy.github.io/NinaCarducci/assets/images/nina.webp"
+    />
+    <meta
+      property="og:url"
+      content="https://misterpoy.github.io/NinaCarducci/"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="fr_FR" />
+
+    <!-- Balises Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Nina Carducci - Photographe professionnelle à Bordeaux"
+    />
+    <meta
+      name="twitter:description"
+      content="Découvrez les services de Nina Carducci, photographe spécialisée dans les mariages, portraits et événements à Bordeaux. Réservez votre séance dès aujourd'hui !"
+    />
+    <meta
+      name="twitter:image"
+      content="https://misterpoy.github.io/NinaCarducci/assets/images/nina.webp"
+    />
   </head>
   <body>
     <nav class="top-header">
@@ -121,14 +156,24 @@
       </div>
     </header>
 
-    <div id="about">
+    <div id="about" itemscope itemtype="https://schema.org/LocalBusiness">
       <div class="picture left">
         <img
           src="./assets/images/nina.webp"
           alt="Portrait de Nina Carducci, photographe professionnelle"
+          itemprop="image"
         />
       </div>
       <div id="about-me">
+        <!--Meta données schema.org -->
+        <meta itemprop="name" content="Nina Carducci - Photographe" />
+        <meta
+          itemprop="description"
+          content="Photographe professionnelle à Bordeaux, spécialisée dans les mariages, portraits et événements. Réservez votre séance photo !"
+        />
+        <meta itemprop="priceRange" content="€€ - Modéré" />
+        <meta itemprop="telephone" content="+33556677889" />
+
         <h3 class="about-me__title">A propos de moi</h3>
         <h6 class="about-me__introduction">
           Devenir photographe était pour moi une évidence. Comme si j’y étais
@@ -145,6 +190,33 @@
           puissiez y puiser de l’amour, du bonheur, de la tendresse et de
           lumière à chaque fois que vous poserez les yeux sur vos photos.
         </p>
+        <!-- Coordonnées et horaires -->
+        <div class="contact-info">
+          <h3 class="contact-info__title">Mes coordonnées</h3>
+          <p>
+            <strong>Adresse :</strong>
+            <span
+              itemprop="address"
+              itemscope
+              itemtype="https://schema.org/PostalAddress"
+            >
+              <span itemprop="streetAddress">68 avenue Alsace-Lorraine</span>,
+              <span itemprop="postalCode">33200</span>
+              <span itemprop="addressLocality">Bordeaux</span>,
+              <span itemprop="addressCountry" content="FR">France</span>
+            </span>
+          </p>
+          <p>
+            <strong>Téléphone :</strong>
+            <a href="tel:+33556677889" itemprop="telephone">05 56 67 78 89</a>
+          </p>
+          <p>
+            <strong>Horaires :</strong>
+            <span itemprop="openingHours"
+              >Lundi - Vendredi : 10:00 - 19:00</span
+            >
+          </p>
+        </div>
       </div>
     </div>
     <div id="gallery">
