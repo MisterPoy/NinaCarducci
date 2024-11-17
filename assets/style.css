@@ -6,6 +6,9 @@ body {
   font-family: "Inter";
   font-style: normal;
 }
+#header {
+  background-color: #666666;
+}
 .top-header {
   background-color: white;
   position: sticky;
@@ -48,7 +51,7 @@ body {
 
 .picture.left::before {
   content: " ";
-  background-color: #e5975f;
+  background-color: #a1551e;
   width: 374px;
   height: 329px;
   position: absolute;
@@ -159,6 +162,7 @@ body {
   font-family: Spectral;
   font-style: italic;
   font-weight: 300;
+  font-size: 40px;
 }
 .quote__author {
   font-family: Spectral;
@@ -223,6 +227,9 @@ body {
 }
 .form-container {
   flex: 2;
+}
+.form-container h2 {
+  font-size: 28px;
 }
 form {
   display: flex;

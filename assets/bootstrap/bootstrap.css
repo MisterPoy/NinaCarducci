@@ -6457,7 +6457,7 @@ fieldset:disabled .btn {
   margin-right: 15%;
   margin-bottom: 1rem;
   margin-left: 15%;
-  list-style: none;
+  list-style: none;  
 }
 .carousel-indicators [data-bs-target] {
   box-sizing: content-box;
